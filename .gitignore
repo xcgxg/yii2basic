@@ -29,8 +29,6 @@ phpunit.phar
 tests/_output/*
 tests/_support/_generated
 
-#runtime
-
 
 #db
-#config/db.php
+config/db.php
